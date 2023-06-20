@@ -17,6 +17,9 @@
 body{
     font-family: 'Outfit', sans-serif;
     background-color: var(--Light-gray);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container{
